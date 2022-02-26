@@ -20,3 +20,4 @@
 * [ ] python and async?
 * [ ] Make a CRUD
 * [x] versioning system
+* [ ] auto-changelog system
