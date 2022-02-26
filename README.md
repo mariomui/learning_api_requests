@@ -19,4 +19,4 @@
 * [ ] Do more advanced api queries against say SUPABASE or MONGO
 * [ ] python and async?
 * [ ] Make a CRUD
-* [ ] versioning system
+* [x] versioning system
