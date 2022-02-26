@@ -9,7 +9,7 @@
 ## Things to experiment
 
 * [ ] Run tests
-* [ ] Run this with past
+* [ ] Run these tests with Flask
 * [ ] Find a better way to write restructured text cuz vscode extension is too slow?
   * [ ] check out Pycharm?
 * [ ] automate Poetry
@@ -19,3 +19,4 @@
 * [ ] Do more advanced api queries against say SUPABASE or MONGO
 * [ ] python and async?
 * [ ] Make a CRUD
+* [ ] versioning system
