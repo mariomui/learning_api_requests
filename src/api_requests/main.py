@@ -1,4 +1,3 @@
-from operator import attrgetter
 import requests
 
 url = 'https://api.github.com/search/repositories'
