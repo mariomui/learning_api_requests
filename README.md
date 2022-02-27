@@ -20,4 +20,5 @@
 * [ ] python and async?
 * [ ] Make a CRUD
 * [x] versioning system
+  * [ ] poetry 1.1.13 does not support `version prerelease preid=beta`
 * [ ] auto-changelog system
